@@ -1,0 +1,11 @@
+.textosH1
+{color: green}
+
+#testoH1
+{color: red}
+
+h2{color: aqua}
+
+body
+{background-image: url(../Img/nubes.webp);
+background-attachment: fixed;}
